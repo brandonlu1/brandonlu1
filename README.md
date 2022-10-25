@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm currently an undergraduate studying Computer Science at Rochester Institute of Technology. I enjoy pouring my time into developing web applications I am passionate about. I find the most comfort in developing frontends with React.js, but I also have experience scripting with Node.js and writing REST API's using Express.js and Flask. 
+
+As a developing software engineer, I am excited to try my hand at new skills and open to learning new technologies!
+
 
 <!--
 **brandonlu1/brandonlu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
