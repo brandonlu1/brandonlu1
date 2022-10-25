@@ -3,6 +3,10 @@ I'm currently an undergraduate studying Computer Science at Rochester Institute 
 
 As a developing software engineer, I am excited to try my hand at new skills and open to learning new technologies!
 
+P.S. my favorite food is spaghetti🍝
+
+
+
 
 <!--
 **brandonlu1/brandonlu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
