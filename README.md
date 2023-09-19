@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently an undergraduate studying Computer Science at Rochester Institute of Technology. I enjoy pouring my time into developing web applications I am passionate about. I have experience developing full-stack applications using the MERN tech stack, as well as Angular and Spring Boot. As an immersing software engineer, I am excited to try my hand at new skills and learn new technologies!
+I'm currently an undergraduate studying Computer Science at Rochester Institute of Technology. I enjoy pouring my time into developing web applications I am passionate about. I have experience developing full-stack applications using React and Angular, as well as Express and Java Boot Spring. As an immersing software engineer, I am excited to try my hand at new skills and learn new technologies!
 
 #### Links
 [LinkedIn](https://www.linkedin.com/in/brandon-lu-b6079b163/)
